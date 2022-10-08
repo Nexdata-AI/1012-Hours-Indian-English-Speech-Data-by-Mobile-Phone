@@ -1,8 +1,10 @@
 # 1012-Hours-Indian-English-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/940
+
 
 ## Description
 Indian English audio data captured by mobile phones, 1,012 hours in total, recorded by 2,100 Indian native speakers. The recorded text is designed by linguistic experts, covering generic, interactive, on-board, home and other categories. The text has been proofread manually with high accuracy; this data set can be used for automatic speech recognition, machine translation, and voiceprint recognition.
+
+For more details, please refer to the link: https://bit.ly/3CaU8NV
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ India English
 
 ## Application scenario
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
