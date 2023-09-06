@@ -4,7 +4,8 @@
 ## Description
 Indian English audio data captured by mobile phones, 1,012 hours in total, recorded by 2,100 Indian native speakers. The recorded text is designed by linguistic experts, covering generic, interactive, on-board, home and other categories. The text has been proofread manually with high accuracy; this data set can be used for automatic speech recognition, machine translation, and voiceprint recognition.
 
-For more details, please refer to the link: https://bit.ly/3CaU8NV
+For more details, please refer to the link: https://www.nexdata.ai/datasets/940?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
